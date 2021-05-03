@@ -1,0 +1,32 @@
+.logo{
+    width:60px;
+}
+
+.navbar{
+    background-color: rgb(161, 161, 161);
+}
+
+.nav-link{
+    color:white !important;
+    font-size:18px;
+    transition:0.5s;
+}
+
+.nav-link:hover{
+    background-color: grey;
+    border-radius:10px;
+}
+
+.text{
+    font-size:20px;
+}
+
+.btn{
+    font-size:19px;
+    transition:0.5s;
+}
+
+.photo img{
+    width:70%;
+    
+}
